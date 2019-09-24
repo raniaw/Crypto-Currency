@@ -1,0 +1,23 @@
+.width {
+  width: 135px;
+  text-align: center;
+}
+
+h2 {
+  font-family: 'Syncopate';
+}
+
+.my-text {
+  font-family: 'Didact Gothic';
+  font-size: 1.5em;
+}
+
+.my-text-select {
+  font-family: 'Didact Gothic';
+  background-color: aliceblue;
+  font-size: 1em;
+  color: blue;
+  border-radius: 5px;
+  padding: 4px;
+}
+/*# sourceMappingURL=style.css.map */
